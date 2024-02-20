@@ -10,5 +10,5 @@ Join us in shaping the future of Web3 technology. Contribute to Fundachain's dev
 For inquiries and collaboration opportunities:
 
 Email: info@fundachain.com
-Telegram: t.me/fundachain
+Telegram: [@fundachain](https://t.me/fundachain)
 
